@@ -45,7 +45,7 @@ LED → Arduino Pin 13 (with resistor)
 VCC & GND → Arduino 5V & GND
 
 
-![Ultra sonic circuit diagram](Ultra%20Sonic%20Sensor)
+![Ultra sonic circuit diagram](Ultra%20Sonic%20Sensor.png)
 Code
 
 The Arduino sketch handles the pulse generation, distance calculation, and LED control using simple digitalWrite, pinMode, and pulseIn functions.
